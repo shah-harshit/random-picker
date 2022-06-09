@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/random-picker/static/js/main.f9830a8e.js",
+    "random-picker-router.js": "/random-picker/static/js/random-picker-router.2784ff47.chunk.js",
+    "static/js/787.a6dcd111.chunk.js": "/random-picker/static/js/787.a6dcd111.chunk.js",
+    "random-picker-page.js": "/random-picker/static/js/random-picker-page.bdb6e6c1.chunk.js",
+    "page-not-found-page.js": "/random-picker/static/js/page-not-found-page.cf0b009f.chunk.js",
+    "static/js/685.42df8586.chunk.js": "/random-picker/static/js/685.42df8586.chunk.js",
+    "index.html": "/random-picker/index.html",
+    "main.f9830a8e.js.map": "/random-picker/static/js/main.f9830a8e.js.map",
+    "random-picker-router.2784ff47.chunk.js.map": "/random-picker/static/js/random-picker-router.2784ff47.chunk.js.map",
+    "787.a6dcd111.chunk.js.map": "/random-picker/static/js/787.a6dcd111.chunk.js.map",
+    "random-picker-page.bdb6e6c1.chunk.js.map": "/random-picker/static/js/random-picker-page.bdb6e6c1.chunk.js.map",
+    "page-not-found-page.cf0b009f.chunk.js.map": "/random-picker/static/js/page-not-found-page.cf0b009f.chunk.js.map",
+    "685.42df8586.chunk.js.map": "/random-picker/static/js/685.42df8586.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.f9830a8e.js"
+  ]
+}
