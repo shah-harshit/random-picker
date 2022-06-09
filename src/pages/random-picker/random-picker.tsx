@@ -35,7 +35,7 @@ export const RandomPickerPage = () => {
         setEndValue(isString(end) ? Number(end) : 10)
         setRandomNumber(isString(random) ? Number(random) : null);
         setRandomNumberList(randomList)
-        setRepeat(getRepeat === 'true');
+        setRepeat(getRepeat ? getRepeat === 'true' : true);
     }, [])
 
 
