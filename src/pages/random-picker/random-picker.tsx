@@ -90,8 +90,8 @@ export const RandomPickerPage = () => {
             </Typography>
         </Grid>
         <Grid item>
-            <Typography variant="body2" marginBottom={2}>
-                Changing selection between <b>Repeat</b> and <b>Do Not Repeat</b> will <b>Reset</b> the data.
+            <Typography variant="body2" marginBottom={1}>
+                Closing the page will <b>Reset</b> the data.
             </Typography>
             <RadioGroup
                 row
