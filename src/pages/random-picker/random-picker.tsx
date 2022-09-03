@@ -207,7 +207,7 @@ export const RandomPickerPage = () => {
           <Grid item>
             <Typography variant="body1">
               {repeat
-                ? `${randomNumberList.length} Generated number is ${randomNumber}`
+                ? `Generated number is ${randomNumber}`
                 : `${
                     randomNumberList.length
                   } Generated numbers are ${randomNumberList.join(", ")}`}
